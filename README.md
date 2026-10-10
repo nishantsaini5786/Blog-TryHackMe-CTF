@@ -250,7 +250,6 @@ curl / jq	REST API user enumeration
 <img width="1920" height="1080" alt="Screenshot_2026-10-08_10_37_49" src="https://github.com/user-attachments/assets/30827ec4-619e-49b4-86d0-676817a9864f" />
 <img width="1920" height="1080" alt="Screenshot_2026-10-08_10_39_26" src="https://github.com/user-attachments/assets/e52d1e34-06a9-4d3a-8561-1fa3fb61dc36" />
 <img width="1920" height="1080" alt="Screenshot_2026-10-08_10_41_08" src="https://github.com/user-attachments/assets/ace5333e-4545-41dc-83f1-b3ed5585bcb2" />
-<img width="1920" height="1080" alt="Screenshot_2026-10-08_10_44_51" src="https://github.com/user-attachments/assets/8a723a6e-bb90-4463-aa1a-6e6d946e6ac6" />
 <img width="1920" height="1080" alt="Screenshot_2026-10-08_10_59_33" src="https://github.com/user-attachments/assets/466e581c-c7eb-40a3-a3a2-f21198ef65f6" />
 <img width="1920" height="1080" alt="Screenshot_2026-10-08_11_22_11" src="https://github.com/user-attachments/assets/f94d2da5-163f-49ce-94c4-42a7b021f23b" />
 <img width="1920" height="1080" alt="Screenshot_2026-10-08_11_22_26" src="https://github.com/user-attachments/assets/a89dc6ed-d254-4945-a622-45e12fddcaa3" />
